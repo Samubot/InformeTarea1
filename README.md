@@ -17,7 +17,9 @@ CAPITULO II
 
 1-16
 
-
 17-24
+
+![](Imagenes/17,18-2.PNG)
+
 
 25-resto
