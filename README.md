@@ -10,6 +10,29 @@ CAPITULO I
 1-19
 
 20-44
+![](Imagenes/20-1.PNG)
+![](Imagenes/21-1.PNG)
+![](Imagenes/22-1.PNG)
+![](Imagenes/23-1.PNG)
+![](Imagenes/24-1.PNG)
+![](Imagenes/25-1.PNG)
+![](Imagenes/26-1.PNG)
+![](Imagenes/27-1.PNG)
+![](Imagenes/28,29-1.PNG)
+![](Imagenes/30-1.PNG)
+![](Imagenes/31-1.PNG)
+![](Imagenes/32-1.PNG)
+![](Imagenes/33-1.PNG)
+![](Imagenes/34-1.PNG)
+![](Imagenes/35-1.PNG)
+![](Imagenes/36-1.PNG)
+![](Imagenes/37,38-1.PNG)
+![](Imagenes/39-1.PNG)
+![](Imagenes/40-1.PNG)
+![](Imagenes/41,42,43-1.PNG)
+![](Imagenes/44-1.PNG)
+
+
 
 45-58
 
