@@ -71,3 +71,11 @@ CAPITULO II
 ![](Imagenes/22,23,24-2.PNG)
 
 25-resto
+![](Imagenes/25,26,27,28-2.PNG)
+![](Imagenes/29,30-2.PNG)
+![](Imagenes/31,32-2.PNG)
+![](Imagenes/33,34,35-2.PNG)
+![](Imagenes/36,37,38-2.PNG)
+![](Imagenes/41,42-2.PNG)
+![](Imagenes/43-2.PNG)
+![](Imagenes/44,45,46,47-2.PNG)
