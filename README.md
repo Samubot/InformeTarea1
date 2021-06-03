@@ -11,7 +11,7 @@ CAPITULO I
 
 ![](Imagenes/1,2,3-1.jpg)
 ![](Imagenes/4-1.jpg)
-
+![](Imagenes/5,6-1.jpg)
 
 20-44
 ![](Imagenes/20-1.PNG)
