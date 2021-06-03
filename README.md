@@ -9,6 +9,13 @@ CAPITULO I
 
 1-19
 
+![](Imagenes/1,2-1.jpg)
+![](Imagenes/3-1.jpg)
+![](Imagenes/4,5,6-1.jpg)
+![](Imagenes/7,8-1.jpg)
+![](Imagenes/9,10,11-1.jpg)
+![](magenes/12,13-1.jpg)
+
 
 
 20-44
