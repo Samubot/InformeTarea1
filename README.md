@@ -15,7 +15,11 @@ CAPITULO I
 ![](Imagenes/7,8-1.jpg)
 ![](Imagenes/9,10,11-1.jpg)
 ![](magenes/12,13-1.jpg)
-
+![](Imagenes/12,13-c2.jpg)
+![](Imagenes/14,15-1.jpg)
+![](Imagenes/16,17-1.jpg)
+![](Imagenes/18-1.jpg)
+![](Imagenes/19-1.jpg)
 
 
 20-44
