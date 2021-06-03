@@ -60,6 +60,8 @@ CAPITULO II
 ![](Imagenes/7-1.jpg)
 
 ![](Imagenes/8,9,10,11-1.jpg)
+![](Imagenes/12,13,14-2.jpg)
+![](Imagenes/15,16-2.jpg)
 
 
 17-24
