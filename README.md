@@ -53,9 +53,14 @@ CAPITULO I
 CAPITULO II
 
 1-16
+
 ![](Imagenes/1,2,3-1.jpg)
 ![](Imagenes/4-1.jpg)
 ![](Imagenes/5,6-1.jpg)
+![](Imagenes/7-1.jpg)
+
+![](Imagenes/8,9,10,11-1.jpg)
+
 
 17-24
 
