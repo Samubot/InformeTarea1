@@ -10,7 +10,7 @@ CAPITULO I
 1-19
 
 ![](Imagenes/1,2,3-1.jpg)
-|[](Imagenes/4-1.jpg)
+![](Imagenes/4-1.jpg)
 
 
 20-44
