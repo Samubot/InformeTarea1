@@ -9,9 +9,7 @@ CAPITULO I
 
 1-19
 
-![](Imagenes/1,2,3-1.jpg)
-![](Imagenes/4-1.jpg)
-![](Imagenes/5,6-1.jpg)
+
 
 20-44
 ![](Imagenes/20-1.PNG)
@@ -55,6 +53,9 @@ CAPITULO I
 CAPITULO II
 
 1-16
+![](Imagenes/1,2,3-1.jpg)
+![](Imagenes/4-1.jpg)
+![](Imagenes/5,6-1.jpg)
 
 17-24
 
