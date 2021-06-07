@@ -97,6 +97,8 @@ CAPITULO II
 
 4. VDEO:
 
+https://youtu.be/hkFkxWBR3yg
+
 6. CONCLUSIONES:
 
 * Tras aprender terminología y conocimientos base sobre voltaje y corriente somos capaces de aplicarlos sobre circuitos eléctricos.
