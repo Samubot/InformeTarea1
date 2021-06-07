@@ -14,7 +14,7 @@ Ejercicios resueltos del Cap1 y Cap2 del libro: "Análisis de Circuitos"-Robbins
 
 * Estudiar los conceptos de corriente, potencia, conductancia y resistencia, mediante la realizacion de ejercición para entender su relación  y reforzar los conocimientos establecidos en clase.
 
-* Con los conocimientos que obtenemos en las horas de clase podemos reconocer algunos ejercicios del uso del Multímetro como se realiza su medición  y  leer  su respectivo circuito.
+* Reconocer los ejercicios que requieran uso del Multímetro mediante la lectura del circuito,  para así realizar su respectiva medición.
 
 CAPITULO I
 
