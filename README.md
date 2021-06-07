@@ -100,3 +100,5 @@ CAPITULO II
 6. CONCLUSIONES:
 
 7. BIBLIOGRAFÍA:
+
+[1] A. Salazar, “Leyes de voltajes y corrientes de Kirchhoff.,” vol. 1, pp. 13–34, 2010.
