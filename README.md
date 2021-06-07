@@ -108,3 +108,5 @@ https://youtu.be/hkFkxWBR3yg
 * Reconocer los ejercicios que requieran uso del Multímetro mediante la lectura del circuito,  para así realizar su respectiva medición.
 
 7. BIBLIOGRAFÍA:
+
+*  A. Salazar, “Leyes de voltajes y corrientes de Kirchhoff.,” vol. 1, pp. 13–34, 2010.
