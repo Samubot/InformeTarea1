@@ -7,8 +7,6 @@ Ejercicios resueltos del Cap1 y Cap2 del libro: "Análisis de Circuitos"-Robbins
 
 CAPITULO I
 
-1-19
-
 ![](Imagenes/1,2-1.jpg)
 ![](Imagenes/3-1.jpg)
 ![](Imagenes/4,5,6-1.jpg)
@@ -20,9 +18,6 @@ CAPITULO I
 ![](Imagenes/16,17-1.jpg)
 ![](Imagenes/18-1.jpg)
 ![](Imagenes/19-1.jpg)
-
-
-20-44
 ![](Imagenes/20-1.PNG)
 ![](Imagenes/21-1.PNG)
 ![](Imagenes/22-1.PNG)
@@ -44,11 +39,6 @@ CAPITULO I
 ![](Imagenes/40-1.PNG)
 ![](Imagenes/41,42,43-1.PNG)
 ![](Imagenes/44-1.PNG)
-
-
-
-45-58
-
 ![](Imagenes/45-1.PNG)
 ![](Imagenes/46-1.PNG)
 ![](Imagenes/47-1.PNG)
@@ -63,25 +53,16 @@ CAPITULO I
 
 CAPITULO II
 
-1-16
-
 ![](Imagenes/1,2,3-1.jpg)
 ![](Imagenes/4-1.jpg)
 ![](Imagenes/5,6-1.jpg)
 ![](Imagenes/7-1.jpg)
-
 ![](Imagenes/8,9,10,11-1.jpg)
 ![](Imagenes/12,13,14-2.jpg)
 ![](Imagenes/15,16-2.jpg)
-
-
-17-24
-
 ![](Imagenes/17,18-2.PNG)
 ![](Imagenes/19,20,21-2.PNG)
 ![](Imagenes/22,23,24-2.PNG)
-
-25-resto
 ![](Imagenes/25,26,27,28-2.PNG)
 ![](Imagenes/29,30-2.PNG)
 ![](Imagenes/31,32-2.PNG)
