@@ -3,11 +3,16 @@
 Ejercicios resueltos del Cap1 y Cap2 del libro: "Análisis de Circuitos"-Robbins
 
 1. OBJETIVOS
+
 -Generales:
+
 * Ser capaces de reconocer las unidades según el SI y sus conversiones mediante el análisis a profundidad de los conceptos fundamentales
 * Conocer los conceptos básicos sobre voltaje y corriente mediante el estudio de la teoría
+
 -Específicos:
+
 * Estudiar los conceptos de corriente, potencia, conductancia y resistencia, mediante la realizacion de ejercición para entender su relación  y reforzar los conocimientos establecidos en clase.
+
 * Con los conocimientos que obtenemos en las horas de clase podemos reconocer algunos ejercicios del uso del Multímetro como se realiza su medición  y  leer  su respectivo circuito.
 
 CAPITULO I
