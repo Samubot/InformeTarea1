@@ -101,8 +101,6 @@ CAPITULO II
 
 * Tras aprender terminología y conocimientos base sobre voltaje y corriente somos capaces de aplicarlos sobre circuitos eléctricos.
 
-* Tras aprender la terminología y los conocimientos basicos sobre voltaje y corriente somos capaces de aplicar.
-
 * Ahora somos capaces de reconocer las unidades el SI y realizar conversiones con facilidad gracias a los conceptos.
 
 * Reconocer los ejercicios que requieran uso del Multímetro mediante la lectura del circuito,  para así realizar su respectiva medición.
