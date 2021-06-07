@@ -76,6 +76,7 @@ CAPITULO II
 ![](Imagenes/5,6-1.jpg)
 
 ![](Imagenes/7-1.jpg)
+
 ![](Imagenes/8,9,10,11-1.jpg)
 
 ![](Imagenes/12,13,14-2.jpg)
