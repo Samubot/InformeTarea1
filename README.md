@@ -74,10 +74,14 @@ CAPITULO II
 ![](Imagenes/1,2,3-1.jpg)
 ![](Imagenes/4-1.jpg)
 ![](Imagenes/5,6-1.jpg)
+
 ![](Imagenes/7-1.jpg)
 ![](Imagenes/8,9,10,11-1.jpg)
+
 ![](Imagenes/12,13,14-2.jpg)
+
 ![](Imagenes/15,16-2.jpg)
+
 ![](Imagenes/17,18-2.PNG)
 ![](Imagenes/19,20,21-2.PNG)
 ![](Imagenes/22,23,24-2.PNG)
