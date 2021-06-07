@@ -1,6 +1,6 @@
 # InformeTarea1
 <img src="Imagenes/LOGO.png">
-Ejercicios resueltos del Cap1 y Cap2 del libro: "Análisis de Circuitos"-Robbins
+
 
 
 
