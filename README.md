@@ -16,6 +16,11 @@ Ejercicios resueltos del Cap1 y Cap2 del libro: "Análisis de Circuitos"-Robbins
 
 * Reconocer los ejercicios que requieran uso del Multímetro mediante la lectura del circuito,  para así realizar su respectiva medición.
 
+2. MARCO TEÓRICO:
+
+
+3. RESOLUCIÓN Y EXPLICACIÓN DE EJERCICIOS:
+
 CAPITULO I
 
 ![](Imagenes/1,2-1.jpg)
@@ -82,3 +87,9 @@ CAPITULO II
 ![](Imagenes/41,42-2.PNG)
 ![](Imagenes/43-2.PNG)
 ![](Imagenes/44,45,46,47-2.PNG)
+
+4. VDEO:
+
+6. CONCLUSIONES:
+
+7. BIBLIOGRAFÍA:
