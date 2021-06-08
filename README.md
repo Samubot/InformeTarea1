@@ -20,6 +20,11 @@
 
 2. MARCO TEÓRICO:
 
+![](mapa1.jpg)
+
+![](mapa2.jpg)
+
+![](mapa3.jpg)
 
 3. RESOLUCIÓN Y EXPLICACIÓN DE EJERCICIOS:
 
@@ -110,3 +115,7 @@ https://youtu.be/hkFkxWBR3yg
 7. BIBLIOGRAFÍA:
 
 *  A. Salazar, “Leyes de voltajes y corrientes de Kirchhoff.,” vol. 1, pp. 13–34, 2010.
+*  J.L, B. (2020, 31 agosto). Esquema Eléctrico. Electrónica Online. https://electronicaonline.net/circuito-electrico/esquema-electrico/
+*  - Medida de voltajes. (2018, 12 marzo). Xunta de Galicia. https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/42_medida_de_voltajes.html
+*  Barraza, C. (2017, 27 junio). Mediciones de voltaje, corriente y resistencia. Slideshader. https://es.slideshare.net/barrazacaleb/mediciones-de-voltaje-corriente-y-resistencia
+*  S. (2020b, abril 17). Ley de Coulomb. Significados. https://www.significados.com/ley-de-coulomb/
