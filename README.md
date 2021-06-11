@@ -104,7 +104,7 @@ CAPITULO II
 
 https://youtu.be/hkFkxWBR3yg
 
-6. CONCLUSIONES:
+5. CONCLUSIONES:
 
 * Tras aprender terminología y conocimientos base sobre voltaje y corriente somos capaces de aplicarlos sobre circuitos eléctricos.
 
@@ -112,7 +112,7 @@ https://youtu.be/hkFkxWBR3yg
 
 * Reconocer los ejercicios que requieran uso del Multímetro mediante la lectura del circuito,  para así realizar su respectiva medición.
 
-7. BIBLIOGRAFÍA:
+6. BIBLIOGRAFÍA:
 
 *  A. Salazar, “Leyes de voltajes y corrientes de Kirchhoff.,” vol. 1, pp. 13–34, 2010.
 *  J.L, B. (2020, 31 agosto). Esquema Eléctrico. Electrónica Online. https://electronicaonline.net/circuito-electrico/esquema-electrico/
